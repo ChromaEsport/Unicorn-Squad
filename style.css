@@ -58,14 +58,14 @@ h1 {
 }
 
 .week-day.active {
-  background: #00d3dd !important;
+  background: #da91ff !important;
   color: black !important;
   font-weight: bold !important;
   font-size: 18px !important;
 }
 
 .week-day:hover {
-  background: #00d3dd;
+  background: #da91ff;
   color: black;
   font-weight: bold !important;
   font-size: 18px;
@@ -205,8 +205,8 @@ button:hover {
 }
 
 .fc .fc-button:hover {
-  background-color: #00d3dd !important;
-  border-color: #00d3dd !important;
+  background-color: #da91ff !important;
+  border-color: #da91ff !important;
 }
 
 .fc .fc-button:disabled{

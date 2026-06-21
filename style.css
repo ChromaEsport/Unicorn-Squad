@@ -224,14 +224,14 @@ button:hover {
 }
 
 .fc-h-event {
-  border: 5px solid #010c2c;
+  border: 5px solid #221a2b;
   font-weight: 700;
   font-size: 14px;
 }
 
 /* Bouton edit username */
 .edit-btn {
-  background: #010c2c !important;
+  background: #221a2b !important;
   border: none !important;
   cursor: pointer !important;
   color: #ffffff !important;
@@ -249,7 +249,7 @@ button:hover {
 }
 
 #eventModal .modal-content button {
-  background: #010c2c;
+  background: #221a2b;
   color: white;
 }
 

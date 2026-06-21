@@ -176,7 +176,7 @@ button:hover {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #010c2c;
+  background-color: #221a2b;
   color: #ffffff;
 }
 
@@ -269,7 +269,7 @@ button:hover {
 }
 .fc-daygrid-event {
   white-space: normal !important;
-  bakground: #764e8a;
+  bakground: #764e8a !important;
 }
 
 .fc-event-title {

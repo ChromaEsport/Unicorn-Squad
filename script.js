@@ -10,12 +10,12 @@ import {
 
 /* FIREBASE */
 const firebaseConfig = {
-  apiKey: "AIzaSyBJX1M5RBfbQuylsLKNsaKflTD0l19l6lI",
-  authDomain: "chroma-esport-eva.firebaseapp.com",
-  projectId: "chroma-esport-eva",
-  storageBucket: "chroma-esport-eva.firebasestorage.app",
-  messagingSenderId: "789903307423",
-  appId: "1:789903307423:web:710c9041ad65603d03a8aa"
+  apiKey: "AIzaSyDe7Huj7YonDtvJ9QY9IICUT4L9FqNjWh4",
+  authDomain: "unicornsquad-eec0a.firebaseapp.com",
+  projectId: "unicornsquad-eec0a",
+  storageBucket: "unicornsquad-eec0a.firebasestorage.app",
+  messagingSenderId: "835437246716",
+  appId: "1:835437246716:web:9d26727e8707719bc33f79"
 };
 
 const app = initializeApp(firebaseConfig);

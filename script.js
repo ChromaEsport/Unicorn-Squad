@@ -223,8 +223,8 @@ async function loadAll() {
       id: d.id,
       title: `${data.player} (${data.start}-${data.end})`,
       start: data.date,
-      backgroundColor: "#3c9195",   // 👈 couleur joueurs
-      borderColor: "#3c9195",
+      backgroundColor: "#764e8a",   // 👈 couleur joueurs
+      borderColor: "#764e8a",
       textColor: "#ffffff",
       extendedProps: { ...data, type: "avail" }
     });

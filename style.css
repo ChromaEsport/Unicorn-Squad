@@ -139,7 +139,7 @@ background: #ffa83b;
 }
 
 .modal-content {
-  background: #3c9195;
+  background: #764e8a;
   padding: 20px;
   border-radius: 10px;
   width: 320px;
@@ -185,7 +185,7 @@ button:hover {
   text-align: center;
   margin-bottom: 10px;
   font-size: 22px;
-  background: #3c9195;
+  background: #764e8a;
   color: #ffffff;
   padding: 6px;
   border-radius: 8px;
@@ -198,8 +198,8 @@ button:hover {
 }
 
 .fc .fc-button{
-  background-color: #3c9195 !important;
-  border-color: #3c9195 !important;
+  background-color: #764e8a !important;
+  border-color: #764e8a !important;
   color: #ffffff !important;
   font-weight: bold !important;
 }
@@ -220,7 +220,7 @@ button:hover {
 /* Couleur case jour passé */
 :root {   
   --fc-neutral-bg-color: #585858f0;
-  --fc-today-bg-color: #3c9195ba;
+  --fc-today-bg-color: #764e8aba;
 }
 
 .fc-h-event {

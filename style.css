@@ -243,7 +243,7 @@ button:hover {
   background: #ffffff !important;
   border: none !important;
   cursor: pointer !important;
-  color: #000000 !important;
+  color: #221a2b !important;
   font-weight: bold !important;
   font-size: 16px !important;
 }
@@ -263,12 +263,13 @@ button:hover {
   background: #ffa83b !important;
   border: none !important;
   cursor: pointer !important;
-  color: #000000 !important;
+  color: #221a2b !important;
   font-weight: bold !important;
   font-size: 16px !important;
 }
 .fc-daygrid-event {
   white-space: normal !important;
+  bakground: #764e8a;
 }
 
 .fc-event-title {
